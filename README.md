@@ -8,3 +8,7 @@ Aplicampos la metodología de Data Powered Positive Deviance, usando una varieda
 2. La paquetería sf (simple features) en R para trabajar con objetos espaciales
 3. Kepler para realizar mapas de calor 
 
+
+------
+
+Este repositorio cuenta con una licencia TIM.
