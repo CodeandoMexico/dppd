@@ -7,7 +7,6 @@
 
 # Data Powered Positive Deviance
 
-## Acerca del projecto
 Aplicamos la metodología de Data Powered Positive Deviance, usando una variedad de datos y métodos estadísticos para identificar lugares en la CDMX donde las mujeres están más seguras o donde la violencia de género es menor que en otras áreas con atributos similares. 
 
 ### Herramientas de análisis
@@ -17,6 +16,14 @@ Aplicamos la metodología de Data Powered Positive Deviance, usando una variedad
 
 ### Conjuntos de datos utilizados
 [Aquí](https://drive.google.com/drive/folders/1PtFnnuCuYEj69Za_8wBCEitDXOW6Y7CF) puedes encontrar las bases de datos para ejecutar los scripts
+
+## Tabla de contenidos
+
+- [Scripts](#scripts)
+- [Mapas](#mapas)
+- [Contribuir](#contribuir)
+- [Atribuciones](#atribuciones)
+- [Licencia](#licencia)
 
 ## Scripts
 TO DO
@@ -51,5 +58,5 @@ TO DO
 ## Atribuciones
 - To Do
 
-### Licencia
+## Licencia
 Los contenidos y productos de este repositorio pertenecen a Codeando México, publicado bajo el licenciamiento MIT.
