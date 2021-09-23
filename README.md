@@ -38,17 +38,12 @@ TO DO
 - To Do
 
 
-## Mapas
+## Outputs
 - To Do
 
-### Capas
+### Datasets
 - To Do
 
-### Kepler
-- To Do
-
-### GitHub Pages
-- To Do
 
 
 ## Contribuir
