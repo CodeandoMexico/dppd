@@ -123,6 +123,10 @@ Los scripts identifican las AGEBS en la CDMX que son desviaciones positivas. Sol
 
 [Aquí](https://drive.google.com/drive/u/1/folders/1HgBpSf1u-Oo_6oaWaX5g3mN24ydkcxIs) encontrarás los datasets creados en los scprits 1.1, 2.1, 3.1.4, 3.2.4, 3.3.4 y 4.1 (outputs) 
 
+## Contribuciones
+Para realizar cualquier contribución puedes abrir un issue, hacer un pull request o contactar a acclabmx@undp.org. 
+
+
 ## Referencias
 - [Blog 1](https://www.undp.org/es/mexico/news/pnud-giz-y-semujeres-presentan-recomendaciones-para-crear-espacios-p%C3%BAblicos-m%C3%A1s-seguros-para-las-mujeres-en-la-ciudad-de-m%C3%A9xico)
 
