@@ -3,7 +3,7 @@
 
 Este proyecto la metodología de [Data Powered Positive Deviance](https://www.undp.org/acceleratorlabs/blog/data-powered-positive-deviance-sustainable-development) para identificar lugares en la CDMX donde las mujeres están más seguras o donde la violencia de género es menor que en otras áreas con atributos similares. 
 
-### Bases de datos utilizadas
+### Conjuntos de datos utilizados
 Para este estudio buscamos bases de datos públicas que nos dieran información sobre dos aspectos relevantes para la problemática: (1) el nivel de seguridad para las mujeres en el espacio público, y (2) elementos que pueden incidir en que un espacio público sea más o menos seguro. Las bases disponibles seleccionadas son: 
 - Censo de Población y Vivienda 2020
 - Encuesta Origen Destino en Hogares de la Zona Metropolitana del Valle de México (EOD) 2017
@@ -23,14 +23,49 @@ Para este estudio buscamos bases de datos públicas que nos dieran información 
 - Distritos del Estudio Origen-Destino de la Zona Metropolitana del Valle de México 2017 para obtener el marco geoestadístico de los distritos de la CDMX - utilizados en la EOD
 - La base de datos sobre la ubicación de los Senderos Seguros a la que nos dio acceso la Agencia Digital de Innovación Pública de la CDMX
 
+[Aquí](https://drive.google.com/drive/folders/1PtFnnuCuYEj69Za_8wBCEitDXOW6Y7CF) puedes encontrar las bases de datos para ejecutar los scripts
 
 ### Herramientas de análisis
 1. R para el análisis de datos
+   - readr
+   - rgdal
+   - dplyr
+   - tidyverse
+   - sf
+   - ggplot2
+   - BAMMtools
+   - data.table
+   - raster
+   - MASS
+   - caret
+   - ggpubr
+   - performance 
+   - car
+   - lmtest
+   - glmnet
+   - repr
+   - MuMIn
+   - effects
+   - nlme
+   - lmerTest
+   - progress
+   - fareway
+   - pscl
+   - boot
+   - lme4
+   - sandwich
+   - AER
+   - sjmisc
+   - sjPlot
+   - cowplot
+   - utils
+   - easypackages
+   - sp
+   - lattice
+   - latticeExtra
+   - ggpubr
 2. La paquetería sf (simple features) en R para trabajar con objetos espaciales
 3. Kepler para realizar mapas de calor 
-
-### Conjuntos de datos utilizados
-[Aquí](https://drive.google.com/drive/folders/1PtFnnuCuYEj69Za_8wBCEitDXOW6Y7CF) puedes encontrar las bases de datos para ejecutar los scripts
 
 ## Tabla de contenidos
 
@@ -78,16 +113,13 @@ Los scripts identifican las AGEBS en la CDMX que son desviaciones positivas. Sol
 
 [Aquí](https://drive.google.com/drive/u/1/folders/1HgBpSf1u-Oo_6oaWaX5g3mN24ydkcxIs) encontrarás los datasets creados en los scprits 1.1, 2.1, 3.1.4, 3.2.4, 3.3.4 y 4.1 (outputs) 
 
-## Contribuir
-Las contribuciones son bienvenidas, puedes abrir un Issue, mandar un Pull Request o contacta a @ricardomiron. 
-
 ## Atribuciones
 
 - Itzel Soto @itzsp 
 - Alma Rangel @almarngl
 - Ricardo Mirón @ricardomiron
-- Nadia Neri 
+- Nadia Neri Vera @NadiaNeriVera
 
 
 ## Licencia
-Los contenidos y productos de este repositorio pertenecen a Codeando México, publicado bajo el licenciamiento MIT.
+Los contenidos y productos de este repositorio están publicados bajo el licenciamiento MIT.
