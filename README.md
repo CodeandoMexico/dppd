@@ -1,7 +1,7 @@
 
 # Data Powered Positive Deviance: Espacios públicos seguros para las mujeres en la CDMX
 
-Este proyecto la metodología de [Data Powered Positive Deviance](https://www.undp.org/acceleratorlabs/blog/data-powered-positive-deviance-sustainable-development) para identificar lugares en la CDMX donde las mujeres están más seguras o donde la violencia de género es menor que en otras áreas con atributos similares. 
+Este proyecto aplica el método de [Desviación Positiva Basada en Datos (Data Powered Positive Deviance)](https://www.undp.org/acceleratorlabs/blog/data-powered-positive-deviance-sustainable-development) para identificar lugares en la CDMX donde las mujeres están más seguras o donde la violencia de género es menor que en otras áreas con atributos similares. 
 
 ### Conjuntos de datos utilizados
 Para este estudio buscamos bases de datos públicas que nos dieran información sobre dos aspectos relevantes para la problemática: (1) el nivel de seguridad para las mujeres en el espacio público, y (2) elementos que pueden incidir en que un espacio público sea más o menos seguro. También entró en consideración que datos son abiertos y estaban disponibles. A partir de estas 17 bases de datos, se construyeron las variables que se utilizan en este proyecto: 
