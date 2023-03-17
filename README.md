@@ -126,9 +126,11 @@ Los scripts identifican las AGEBS en la CDMX que son desviaciones positivas. Sol
 ## Contribuciones
 Para realizar cualquier contribución puedes abrir un issue, hacer un pull request o contactar a acclabmx@undp.org. 
 
-
 ## Referencias
-- [Blog 1](https://www.undp.org/es/mexico/news/pnud-giz-y-semujeres-presentan-recomendaciones-para-crear-espacios-p%C3%BAblicos-m%C3%A1s-seguros-para-las-mujeres-en-la-ciudad-de-m%C3%A9xico)
+- [Blog 1: Identificando espacios públicos seguros para las mujeres en Ciudad de México](https://www.undp.org/es/mexico/news/pnud-giz-y-semujeres-presentan-recomendaciones-para-crear-espacios-p%C3%BAblicos-m%C3%A1s-seguros-para-las-mujeres-en-la-ciudad-de-m%C3%A9xico)
+- [Blog 2: Identificando espacios públicos seguros para las mujeres en Ciudad de México. Parte 2: Del análisis cuantitativo al cualitativo](https://www.undp.org/es/mexico/blog/identificando-espacios-p%C3%BAblicos-m%C3%A1s-seguros-para-las-mujeres-en-ciudad-de-m%C3%A9xico-parte-2-del-an%C3%A1lisis-cuantitativo-al-cualitativo)
+- [PNUD, GIZ y SEMUJERES presentan recomendaciones para crear espacios públicos más seguros para las mujeres en la Ciudad de México](https://www.undp.org/es/mexico/news/pnud-giz-y-semujeres-presentan-recomendaciones-para-crear-espacios-p%C3%BAblicos-m%C3%A1s-seguros-para-las-mujeres-en-la-ciudad-de-m%C3%A9xico)
+– [The Data Powered Positive Deviance Handbook] (https://www.undp.org/acceleratorlabs/publications/data-powered-positive-deviance-handbook)
 
 ## Atribuciones
 
