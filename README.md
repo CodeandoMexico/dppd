@@ -12,6 +12,8 @@ El método se compone de 5 etapas:
 
 Este repositorio contiene la información correspondiente al análisis cuantitativo de la etapa 2, enfocada en identificar las desviaciones positivas (o PDs, por sus siglas en inglés). Para conocer el proceso completo y los hallazgos del piloto, consulta el reporte. 
 
+El proyecto articula una alianza entre la [Iniciativa Agenda 2030 de la Cooperación Alemana al Desarrollo Sustentable (GIZ) en  México](https://www.giz.de/en/worldwide/67220.html) y el [Laboratorio de Aceleración del Programa de las Naciones Unidas para el Desarrollo (PNUD) en México](https://www.undp.org/es/mexico/nuestro-enfoque/laboratorio-de-aceleraci%C3%B3n), en conjunto con sus socios globales, el [GIZ Data Lab](https://www.blog-datalab.com/), el [Centro para Desarrollo Digital de la Universidad de Mánchester](https://www.cdd.manchester.ac.uk/) y la [Red de Laboratorios de Aceleración del PNUD](https://www.undp.org/acceleratorlabs). Mediante este piloto se busca implementar métodos innovadores que revelen nuevas formas de actuar ante los desafíos del desarrollo.
+
 ### Conjuntos de datos utilizados
 Para este estudio buscamos bases de datos públicas que nos dieran información sobre dos aspectos relevantes para la problemática: (1) el nivel de seguridad para las mujeres en el espacio público, y (2) elementos que pueden incidir en que un espacio público sea más o menos seguro. También entró en consideración que datos son abiertos y estaban disponibles. A partir de estas 17 bases de datos, se construyeron las variables que se utilizan en este proyecto: 
 - Censo de Población y Vivienda 2020
