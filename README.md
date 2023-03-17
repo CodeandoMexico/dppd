@@ -1,13 +1,28 @@
-<p align="center">
-<img src="http://codeandomexico.org/resources/img/codeandomexico.png" width="500" alt="Codeando México"><br>
-<a href="http://www.codeandomexico.org/" target="_blank"><img src="https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg"></a>
-<a href="http://slack.codeandomexico.org/" target="_blank"><img src="https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg"></a>
-</p>
-<!-- __ -->
 
-# Data Powered Positive Deviance
+# Data Powered Positive Deviance: Espacios públicos seguros para las mujeres en la CDMX
 
-Aplicamos la metodología de Data Powered Positive Deviance, usando una variedad de datos y métodos estadísticos para identificar lugares en la CDMX donde las mujeres están más seguras o donde la violencia de género es menor que en otras áreas con atributos similares. 
+Este proyecto la metodología de [Data Powered Positive Deviance](https://www.undp.org/acceleratorlabs/blog/data-powered-positive-deviance-sustainable-development) para identificar lugares en la CDMX donde las mujeres están más seguras o donde la violencia de género es menor que en otras áreas con atributos similares. 
+
+### Bases de datos utilizadas
+Para este estudio buscamos bases de datos públicas que nos dieran información sobre dos aspectos relevantes para la problemática: (1) el nivel de seguridad para las mujeres en el espacio público, y (2) elementos que pueden incidir en que un espacio público sea más o menos seguro. Las bases disponibles seleccionadas son: 
+- Censo de Población y Vivienda 2020
+- Encuesta Origen Destino en Hogares de la Zona Metropolitana del Valle de México (EOD) 2017
+- Marco geoestadístico 2020
+- Directorio Estadístico Nacional de Unidades Económicas (DENUE) 2020/11
+- Inventario Nacional de Viviendas 2016 (frente de manzanas)
+- Áreas verdes de la Ciudad de México
+- Estaciones de Metro
+- Estaciones de Metrobús
+- Paradas de Trolebús
+- Paradas de RTP (Red de Transporte de Pasajeros)
+- Puntos de arribo para los sistemas de transporte individual sustentable (SiTIS)
+- Víctimas en carpetas de investigación FGJ
+- Ubicación de puntos de acceso gratuito a internet WiFi vía infraestructura C5
+- Pasos Seguros CDMX 
+- Intersecciones seguras
+- Distritos del Estudio Origen-Destino de la Zona Metropolitana del Valle de México 2017 para obtener el marco geoestadístico de los distritos de la CDMX - utilizados en la EOD
+- La base de datos sobre la ubicación de los Senderos Seguros a la que nos dio acceso la Agencia Digital de Innovación Pública de la CDMX
+
 
 ### Herramientas de análisis
 1. R para el análisis de datos
