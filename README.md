@@ -4,7 +4,7 @@
 Este proyecto la metodología de [Data Powered Positive Deviance](https://www.undp.org/acceleratorlabs/blog/data-powered-positive-deviance-sustainable-development) para identificar lugares en la CDMX donde las mujeres están más seguras o donde la violencia de género es menor que en otras áreas con atributos similares. 
 
 ### Conjuntos de datos utilizados
-Para este estudio buscamos bases de datos públicas que nos dieran información sobre dos aspectos relevantes para la problemática: (1) el nivel de seguridad para las mujeres en el espacio público, y (2) elementos que pueden incidir en que un espacio público sea más o menos seguro. Las bases disponibles seleccionadas son: 
+Para este estudio buscamos bases de datos públicas que nos dieran información sobre dos aspectos relevantes para la problemática: (1) el nivel de seguridad para las mujeres en el espacio público, y (2) elementos que pueden incidir en que un espacio público sea más o menos seguro. También entró en consideración que datos son abiertos y estaban disponibles. A partir de estas 17 bases de datos, se construyeron las variables que se utilizan en este proyecto: 
 - Censo de Población y Vivienda 2020
 - Encuesta Origen Destino en Hogares de la Zona Metropolitana del Valle de México (EOD) 2017
 - Marco geoestadístico 2020
@@ -23,7 +23,7 @@ Para este estudio buscamos bases de datos públicas que nos dieran información 
 - Distritos del Estudio Origen-Destino de la Zona Metropolitana del Valle de México 2017 para obtener el marco geoestadístico de los distritos de la CDMX - utilizados en la EOD
 - La base de datos sobre la ubicación de los Senderos Seguros a la que nos dio acceso la Agencia Digital de Innovación Pública de la CDMX
 
-[Aquí](https://drive.google.com/drive/folders/1PtFnnuCuYEj69Za_8wBCEitDXOW6Y7CF) puedes encontrar las bases de datos para ejecutar los scripts
+[Aquí](https://drive.google.com/drive/folders/1PtFnnuCuYEj69Za_8wBCEitDXOW6Y7CF) puedes encontrar las bases de datos necesarias para ejecutar los scripts de este repositorio
 
 ### Métodos usados (ambas secciones)
 
