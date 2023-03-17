@@ -3,7 +3,7 @@
 
 El objetivo de este piloto es identificar las condiciones tangibles e intangibles de los espacios públicos que incrementan la seguridad de las mujeres mediante el método de [desviación positiva basada en datos (Data Powered Positive Deviance)](https://www.undp.org/acceleratorlabs/blog/data-powered-positive-deviance-sustainable-development).
 
-El método consiste de 5 etapas:
+El método se compone de 5 etapas:
 - Etapa 1. Examinación de la problemática y el método
 - Etapa 2. Identificación de desviaciones positivas (etapa cuantitativa)
 - Etapa 3. Descubrimiento de factores subyacentes (etapa cualitativa)
