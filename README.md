@@ -25,6 +25,16 @@ Para este estudio buscamos bases de datos públicas que nos dieran información 
 
 [Aquí](https://drive.google.com/drive/folders/1PtFnnuCuYEj69Za_8wBCEitDXOW6Y7CF) puedes encontrar las bases de datos para ejecutar los scripts
 
+### Métodos usados (ambas secciones)
+
+- Regresión lasso
+- Regressión lineal
+- Regressión binomial negativa
+- Selección de modelos 
+- Geoespacialización
+- Identificación de PDs
+- PD understanding
+
 ### Herramientas de análisis
 1. R para el análisis de datos
    - readr
