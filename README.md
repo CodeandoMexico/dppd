@@ -1,6 +1,8 @@
 
 # Data Powered Positive Deviance: Espacios públicos seguros para las mujeres en la Ciudad de México
 
+![Logos GIZ + PNUD 2](https://user-images.githubusercontent.com/75092570/226021844-d6160967-1853-4213-a961-8abfb42abf05.png)
+
 ![Logos GIZ + PNUD](https://user-images.githubusercontent.com/75092570/226021297-7a386fd1-76f4-4f70-88b2-558c7d454d92.png)
 
 El objetivo de este piloto es identificar las condiciones tangibles e intangibles de los espacios públicos que incrementan la seguridad de las mujeres mediante el método de [desviación positiva basada en datos (Data Powered Positive Deviance)](https://www.undp.org/acceleratorlabs/blog/data-powered-positive-deviance-sustainable-development).
