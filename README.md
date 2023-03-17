@@ -25,7 +25,7 @@ Para este estudio buscamos bases de datos públicas que nos dieran información 
 
 [Aquí](https://drive.google.com/drive/folders/1PtFnnuCuYEj69Za_8wBCEitDXOW6Y7CF) puedes encontrar las bases de datos necesarias para ejecutar los scripts de este repositorio
 
-### Métodos usados (ambas secciones)
+### Métodos usados 
 
 - Regresión lasso
 - Regressión lineal
